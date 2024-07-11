@@ -4,8 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Pasos para iniciar el servicio
 
-1.- Tener la version mas reciente de node.js
-2.- para inciar el servicio ejecutar "npm start" la ventana del cliente se habre automaticamente
+1.- Tener la version mas reciente de node.js \
+2.- Para correcto funcionamiento, tener iniciado el servidor del backend \
+3.- para inciar el servicio ejecutar "npm start" la ventana del cliente se habre automaticamente \
+\
+\
+\
+
 
 ## Available Scripts
 
