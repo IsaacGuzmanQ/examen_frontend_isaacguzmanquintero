@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Pasos para iniciar el servicio
+
+1.- Tener la version mas reciente de node.js
+2.- para inciar el servicio ejecutar "npm start" la ventana del cliente se habre automaticamente
+
 ## Available Scripts
 
 In the project directory, you can run:
